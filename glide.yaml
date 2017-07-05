@@ -1,0 +1,3 @@
+package: ~/workspace/trial
+import:
+- package: "github.com/gorilla/mux"
